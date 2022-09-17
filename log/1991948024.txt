@@ -1,0 +1,1 @@
+Transaction order_id: 1991948024 successfully transfered using bca_klikpayand order id = settlement

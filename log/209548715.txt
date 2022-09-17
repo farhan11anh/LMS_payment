@@ -1,0 +1,1 @@
+Transaction order_id: 209548715 successfully transfered using bank_transferand order id = 12d1a500-2605-4b61-a088-1cdf7dddb4d6
